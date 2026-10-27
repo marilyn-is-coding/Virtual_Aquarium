@@ -15,6 +15,5 @@
      * The fish are then in party mode now, so they have glow-in-the-dark hues of green and swim faster.
      * Right clicking once more returns to regular day operations.
 
-
-     Run main.java to create an instance of Aquarium
-     Aquarium.java contains the class Aquarium with all the objects needed
+    * Run main.java to create an instance of Aquarium
+    * Aquarium.java contains the class Aquarium with all the objects needed
